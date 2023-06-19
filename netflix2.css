@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+} 
+
+img {
+    max-width: 100%;
+}
+
+.header {
+    width: 100%;
+}
+
+.profil{
+    display: flex;
+    justify-content: center;
+}
+
+.profil2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resim {
+    width: 150px;
+}
+.resim:hover{
+    width: 175px
+}
+
+.mybtn{
+    color: white;
+    margin-top: 50px;   
+}
+
+.mybtn:hover {
+    color: black;
+}
+h5:hover {
+    color: black;
+}
+
+.navbar2 {
+    background-color: black;
+    color: white;
+}
+.navbar ul li a{
+    color: white; 
+}
+
+.navbar ul li a:hover {
+    color: bisque;
+}
+
+.navbar2 {
+    background-color: black;
+    color: white;
+}
+.navbar ul li a{
+    color: white; 
+}
+
+.navbar ul li a:hover {
+    color: bisque;
+}
+
+.yenimenu li a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+  
+}
+
+.yeni ul li a:hover{
+    color: darkgray;
+}

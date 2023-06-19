@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: white;
+} 
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hesap {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.navbar2 {
+    background-color: black;
+    color: white;
+}
+.navbar ul li a{
+    color: white; 
+}
+
+.navbar ul li a:hover {
+    color: bisque;
+}
+
+.footer-2 ul li a{
+    color: white;
+}
+
+.footer-2 ul li a:hover {
+    color: darkgray;
+}
+
+.yenimenu li a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+  
+}
+
+.yeni ul li a:hover{
+    color: darkgray;
+}
